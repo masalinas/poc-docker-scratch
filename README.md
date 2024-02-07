@@ -1,6 +1,14 @@
 # Description
 Poc Docker from scratch without any ENTRYPOINT nor CMD
 
+## Download alpine file system 
+
+From this url we can select one alpine file system version to be build in a image
+
+```
+https://dl-cdn.alpinelinux.org/alpine/
+```
+
 ## Create Dockerfile
 
 ```
