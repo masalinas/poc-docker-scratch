@@ -1,7 +1,7 @@
 # Description
-Poc Docker from scratch
+Poc Docker from scratch without any ENTRYPOINT nor CMD
 
-## Create this Dockerfile
+## Create Dockerfile
 
 ```
 FROM scratch 
